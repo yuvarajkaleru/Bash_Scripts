@@ -7,10 +7,12 @@
 #                                                #
 # This script will report the AWS resource usage #
 ##################################################
-
+# AWS S3
 # AWS EC2
 # AWS Lambda
 # AWS IAM Users
+
+
 # list S3 Buckets
 echo "S3 Buckets Details\n"
 aws s3 ls
