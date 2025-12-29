@@ -8,7 +8,6 @@
 # This script will report the AWS resource usage #
 ##################################################
 
-# AWS S3
 # AWS EC2
 # AWS Lambda
 # AWS IAM Users
